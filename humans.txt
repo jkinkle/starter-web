@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Kinkle	jkinkle@gmail.com	@thekinkle
 
 # THANKS
 
